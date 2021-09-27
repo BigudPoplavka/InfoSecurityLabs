@@ -1,0 +1,16 @@
+D:\donnu\4 КУРС\Защита информации\LabWork1\LabWork1\obj\Debug\net5.0\LabWork1.csprojAssemblyReference.cache
+D:\donnu\4 КУРС\Защита информации\LabWork1\LabWork1\obj\Debug\net5.0\LabWork1.GeneratedMSBuildEditorConfig.editorconfig
+D:\donnu\4 КУРС\Защита информации\LabWork1\LabWork1\obj\Debug\net5.0\LabWork1.AssemblyInfoInputs.cache
+D:\donnu\4 КУРС\Защита информации\LabWork1\LabWork1\obj\Debug\net5.0\LabWork1.AssemblyInfo.cs
+D:\donnu\4 КУРС\Защита информации\LabWork1\LabWork1\obj\Debug\net5.0\LabWork1.csproj.CoreCompileInputs.cache
+D:\donnu\4 КУРС\Защита информации\LabWork1\LabWork1\bin\Debug\net5.0\LabWork1.exe
+D:\donnu\4 КУРС\Защита информации\LabWork1\LabWork1\bin\Debug\net5.0\LabWork1.deps.json
+D:\donnu\4 КУРС\Защита информации\LabWork1\LabWork1\bin\Debug\net5.0\LabWork1.runtimeconfig.json
+D:\donnu\4 КУРС\Защита информации\LabWork1\LabWork1\bin\Debug\net5.0\LabWork1.runtimeconfig.dev.json
+D:\donnu\4 КУРС\Защита информации\LabWork1\LabWork1\bin\Debug\net5.0\LabWork1.dll
+D:\donnu\4 КУРС\Защита информации\LabWork1\LabWork1\bin\Debug\net5.0\ref\LabWork1.dll
+D:\donnu\4 КУРС\Защита информации\LabWork1\LabWork1\bin\Debug\net5.0\LabWork1.pdb
+D:\donnu\4 КУРС\Защита информации\LabWork1\LabWork1\obj\Debug\net5.0\LabWork1.dll
+D:\donnu\4 КУРС\Защита информации\LabWork1\LabWork1\obj\Debug\net5.0\ref\LabWork1.dll
+D:\donnu\4 КУРС\Защита информации\LabWork1\LabWork1\obj\Debug\net5.0\LabWork1.pdb
+D:\donnu\4 КУРС\Защита информации\LabWork1\LabWork1\obj\Debug\net5.0\LabWork1.genruntimeconfig.cache
