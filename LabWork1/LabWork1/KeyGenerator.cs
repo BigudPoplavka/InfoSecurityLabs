@@ -12,7 +12,7 @@ namespace LabWork1
     {
         private const string keyPath = @"key.txt";
         private static int minKeyLength = 3,
-                    maxKeyLength = 26;
+                    maxKeyLength = 32;
         public static string GenerateKey(IAlgorithm algorithm)
         {
             string randomKey = string.Empty;
