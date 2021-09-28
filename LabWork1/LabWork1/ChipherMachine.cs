@@ -19,7 +19,6 @@ namespace LabWork1
         public void Init()
         {
             _message = FileManager.Read(FileManager.messagePath);
-            Console.WriteLine(_message);
             EnterKeyMenu();
         }
 
