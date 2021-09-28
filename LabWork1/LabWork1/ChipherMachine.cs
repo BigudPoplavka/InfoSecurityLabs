@@ -10,7 +10,8 @@ namespace LabWork1
     {
         public IAlgorithm algorithm;
         private string _message, _key, _encoded;
-
+        private bool _keyEnteredCorrectly;
+        
         public ChipherMachine(IAlgorithm _algorithm)
         {
             algorithm = _algorithm;
@@ -41,8 +42,14 @@ namespace LabWork1
 
             if(answer == "e" || answer == "E")
             {
-                Console.WriteLine("Enter key: ");
+                Console.WriteLine("Enter key (size 3 - 32): ");
                 _key = Console.ReadLine();
+                if(_key.Length < 3 || _key.Length > 32)
+                {
+                    Console.WriteLine("[KEY INPUT]: ERROR! INCORRECT KEY SIZE!");
+                    _key = String.Empty;
+                    return;
+                }
                 FileManager.Write(FileManager.keyPath, _key);
             }
             else if(answer == "g" || answer == "G")
@@ -52,7 +59,7 @@ namespace LabWork1
             }
             else
             {
-                Console.WriteLine("INCORRECT OPTION!");
+                Console.WriteLine("[KEY INPUT]: INCORRECT OPTION!");
                 return;
             }
         }
