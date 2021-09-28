@@ -39,7 +39,7 @@ namespace LabWork1
             File.Delete(FileManager.encodedMessage);
             File.Create(FileManager.encodedMessage).Close();
             FileManager.Write(FileManager.encodedMessage, encodedMessage);
-            Console.WriteLine("[ENCODER]: Encoded! ", encodedMessage);
+            Console.WriteLine("[ENCODER]: Encoded! ");
 
             return encodedMessage;
         }
@@ -63,7 +63,7 @@ namespace LabWork1
             File.Delete(FileManager.decodedMessage);
             File.Create(FileManager.decodedMessage).Close();
             FileManager.Write(FileManager.decodedMessage, decodedMessage);
-            Console.WriteLine("[ENCODER]: Decoded! ", decodedMessage);
+            Console.WriteLine("[ENCODER]: Decoded!");
 
             return decodedMessage;
         }
